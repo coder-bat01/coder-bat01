@@ -10,14 +10,6 @@
 
 ## ⚡ Featured projects
 
-### [Flappy Power](https://github.com/coder-bat01/flappy-power)
-
-A 3D browser game inspired by Flappy Bird, with procedural scenery, synthesized sound effects, and three gameplay power-ups.
-
-**Built with:** JavaScript · Three.js · Vite · Web Audio API
-
-[Explore the project →](https://github.com/coder-bat01/flappy-power)
-
 ### [LeetCoach AI](https://github.com/coder-bat01/leetcoach-ai)
 
 A self-hosted LeetCode coach for interview preparation, with progress tracking, weakness analysis, company prep, interview-readiness scoring, and AI-powered study plans.
@@ -25,6 +17,14 @@ A self-hosted LeetCode coach for interview preparation, with progress tracking, 
 **Built with:** Next.js · React · TypeScript · Express · PostgreSQL · Redis
 
 [Explore the project →](https://github.com/coder-bat01/leetcoach-ai)
+
+### [Flappy Power](https://github.com/coder-bat01/flappy-power)
+
+A 3D browser game inspired by Flappy Bird, with procedural scenery, synthesized sound effects, and three gameplay power-ups.
+
+**Built with:** JavaScript · Three.js · Vite · Web Audio API
+
+[Explore the project →](https://github.com/coder-bat01/flappy-power)
 
 ---
 
