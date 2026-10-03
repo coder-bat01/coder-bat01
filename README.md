@@ -1,16 +1,24 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Ajinkya — browser game banner with email and LinkedIn links" width="100%" />
+</p>
 
-<!--
-**coder-bat01/coder-bat01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I build interactive web experiences and browser games.
+</p>
 
-Here are some ideas to get you started:
+<p align="center"><a href="mailto:ajinkyadhakne1105@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/ajinkya17">LinkedIn</a></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Featured project
+
+### [Flappy Power](https://github.com/coder-bat01/flappy-power)
+
+A 3D browser game inspired by Flappy Bird, with procedural scenery, synthesized sound effects, and three gameplay power-ups.
+
+**Built with:** JavaScript · Three.js · Vite · Web Audio API
+
+[Explore the project →](https://github.com/coder-bat01/flappy-power)
+
+---
+
+<p align="center"><sub>Thanks for stopping by 👋</sub></p>
+
