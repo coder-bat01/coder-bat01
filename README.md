@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Ajinkya — browser game banner with email and LinkedIn links" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Ajinkya — browser games, LeetCoach AI, and contact links" width="100%" />
 </p>
 
 <p align="center">
-  I build interactive web experiences and browser games.
+  I build interactive web experiences and useful tools, including <a href="https://github.com/coder-bat01/leetcoach-ai">LeetCoach AI</a>.
 </p>
 
 <p align="center"><a href="mailto:ajinkyadhakne1105@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/ajinkya17">LinkedIn</a></p>
